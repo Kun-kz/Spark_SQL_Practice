@@ -14,7 +14,7 @@ All data were provided by the class. There were three CSVs that contained Boston
 ### Summary
 We cleaned and combined three cities' homicide data and grouped them by month. The bar chart was as follows:
 
-![](Images/chart1.png)
+![](Images/Chart1.png)
 
 - The greatest number of homicides occurred in September, and there were 70 cases in total.
 - Month of April had the lowest homicide cases.
