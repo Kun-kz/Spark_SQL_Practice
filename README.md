@@ -1,5 +1,6 @@
 # Spark_SQL_Practice
 ## Overview
+This is a class practice from [Databricks SQL Analyst](https://academy.databricks.com/sql-analyst).
 In this project, we finished the following tasks using Spark SQL:
 - Preview data
 - Join tables and create temporary views
