@@ -31,3 +31,10 @@ In this project, we finished the following tasks:
 All data were provided by the class. This example used mock data from 4 different data centers, each with four different kinds of sensors that periodically collected temperature and CO2 level readings.
 
 ### Summary
+The initial data was as follows:
+
+![](Images/code1.png)
+
+After processed data, we got the average daily and monthly temperatures that were calculated for a data center on a given date. And we created a dashboard to publish the visualization.
+
+![](Images/chart2.png)
